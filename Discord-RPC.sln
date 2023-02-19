@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord-RPC", "Discord-RPC\Discord-RPC.csproj", "{CADC53F7-D059-48BE-980A-B03111C9E623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADC53F7-D059-48BE-980A-B03111C9E623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADC53F7-D059-48BE-980A-B03111C9E623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADC53F7-D059-48BE-980A-B03111C9E623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADC53F7-D059-48BE-980A-B03111C9E623}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E256FC0F-6262-4911-B92D-FFEC2E3E1862}
+	EndGlobalSection
+EndGlobal
